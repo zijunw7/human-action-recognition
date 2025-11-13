@@ -10,7 +10,11 @@
 
 #### 左侧为原始方法，右侧为本项目效果：
 
-![图片1](C:\Users\15201\Documents\GitHub\human-action-recognition\demo\图片1.gif)!1763019153956](C:\Users\15201\AppData\Local\Temp\1763019153956.png)<![yolov5+slowfast](C:\Users\15201\Documents\GitHub\human-action-recognition\demo\yolov5+slowfast.gif)mg src="./demo/yolov5+slowfast.gif" width="400" />
+![图片1](C:\Users\15201\Documents\GitHub\human-action-recognition\demo\图片1.gif)
+
+
+
+![yolov5+slowfast](C:\Users\15201\Documents\GitHub\human-action-recognition\demo\yolov5+slowfast.gif)
 
 #### Update Log:
 
